@@ -1,47 +1,45 @@
 # 👨‍💻 Yashovardhan Singh  
 
-![Profile Views](https://komarev.com/ghpvc/?username=YASHOVERDHAN-SINGH&label=Profile%20Views&color=0e75b6&style=flat)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Bug+Bounty+Hunter;Ethical+Hacking+Learner;Cybersecurity+Enthusiast;Breaking+Systems+to+Secure+Them)
+✨ *Electrical Engineering Student | Embedded Systems & Robotics Enthusiast*  
 
 ---
 
-## 🛡️ About Me  
-- 🐛 Bug Bounty Hunter  
-- 🔐 Passionate about **Cybersecurity & Ethical Hacking**  
-- 💻 Exploring **Web Security, Networking & Exploitation**  
-- 🚀 Learning to find real-world vulnerabilities  
+![Profile Views](https://komarev.com/ghpvc/?username=YASHOVERDHAN-SINGH&label=Profile%20Views&color=0e75b6&style=flat)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Electrical+Engineering+Student;Embedded+Systems+Learner;Robotics+%7C+IoT+Explorer;Building+Real+World+Projects)
+
+---
+
+## 🌌 About Me  
+- 🎓 Electrical Engineering student at **Academy of Technology**  
+- 🔌 Strong interest in **Embedded Systems & Hardware Design**  
+- 🤖 Exploring **Robotics, IoT & Automation Systems**  
+- ⚡ Passionate about building practical projects using **hardware + software**  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 ### 💻 Languages  
-`JavaScript` `Python` `C`  
+`C` `C++` `Python` `Embedded C`  
 
-### 🌐 Development  
-`HTML` `CSS` `Node.js`  
-`Socket Programming`  
+### 🔧 Embedded & Hardware  
+`Arduino` `ESP32` `Raspberry Pi` `ARM`  
+`Sensors` `Actuators` `Circuit Design`  
 
-### 🔐 Cybersecurity  
-`Web Security`  
-`Bug Bounty`  
-`Ethical Hacking`  
-
-### 🧠 Tools  
-`Git` `GitHub` `VS Code`  
-`Linux` `Browser DevTools`  
+### 🤖 Robotics & IoT  
+`ROS` `IoT Systems` `Automation`  
+`WiFi` `Bluetooth`  
 
 ---
 
 ## 🚀 Projects  
+✨ *Applying concepts through hands-on projects*  
 
-✨ *Hands-on learning through building*  
-
-- 🔹 Weather App (Python)  
-- 🔹 Chat Application (Sockets)  
-- 🔹 Magical Notes Website  
-- 🔹 Number System Tool (Base 4)  
+- 🔹 Smart Home Automation System  
+- 🔹 Line Following Robot  
+- 🔹 Obstacle Avoiding Robot  
+- 🔹 IoT-Based Monitoring System  
 
 ---
 
@@ -54,19 +52,18 @@
 ---
 
 ## 🌱 Currently Learning  
-- Advanced Ethical Hacking  
-- Web Exploitation  
-- Networking Fundamentals  
-- Cybersecurity Tools  
+- Embedded AI (TinyML)  
+- Real-Time Operating Systems (RTOS)  
+- Advanced Robotics Concepts  
+- PCB Design  
 
 ---
 
 ## 📫 Connect With Me  
 - 🔗 GitHub: https://github.com/YASHOVERDHAN-SINGH  
-- 🐦 Twitter: *(Add link)*  
-- 💼 LinkedIn: *(Add link)*  
+- 💼 LinkedIn: *(Add your link)*  
 
 ---
 
 ## 💭 Quote  
-> *“Break it. Understand it. Secure it.”*  
+> *“Engineering ideas into reality.”*  
