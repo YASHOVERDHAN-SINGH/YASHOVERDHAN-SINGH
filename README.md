@@ -25,7 +25,10 @@
 
 ### 🔧 Embedded & Hardware  
 `Arduino` `ESP32` `Raspberry Pi` `ARM`  
-`Sensors` `Actuators` `Circuit Design`  
+`Sensors` `Actuators` `Circuit Design
+
+### 🌐 Frontend  
+`HTML` `CSS` `JavaScript` `React``  
 
 ### 🤖 Robotics & IoT  
 `ROS` `IoT Systems` `Automation`  
